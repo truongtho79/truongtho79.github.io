@@ -1,0 +1,761 @@
+
+/* CSS TOPHEADER */
+
+
+
+.fontroboto{
+    font-family: 'Roboto Slab', serif;}
+.fontDancing{
+    font-family: 'Dancing Script', cursive;
+}
+.fontoswald {
+    font-family: 'Oswald', sans-serif;
+}
+*{margin: 0; padding: 0;}
+
+.khoithongtin4 .dienthoai {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 70px;
+}
+
+.khoithongtin4 p {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.khoithongtin4 p span {
+    color: #FFA902;
+}
+
+.khoithongtin4 p span:hover {
+    color: #ff9200;
+    text-decoration: underline;
+}
+
+.khoithongtin4 {
+    margin-top: 100px;
+}
+
+.khoithongtin4 h3 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+
+.khoithongtin4 h3:hover, .khoithongtin4 .dienthoai:hover {
+    color: #ffa900;
+}
+
+.tieude3 h3 {
+    font-size: 40px;
+    font-family: 'Roboto Slab', serif;
+    padding-top: 10px;
+    font-weight: bold;
+    letter-spacing: 7px;
+    word-spacing: 2px;
+    text-shadow: 2px 2px 3px #ff9f00;
+}
+
+.tieude3 span {
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: #ffab00;
+    text-shadow: -1px 2px 1px white;
+}
+
+.khoi3 .row {
+    display: table-cell;
+    vertical-align: middle;
+    height: 550px;
+    color: white;
+}
+
+.khoithongtin3 .khoi3 {
+    display: table;
+}
+
+.khoithongtin3 {
+    background: url(images/slide_02.png);
+    background-size: cover;
+    height: 550px;
+    margin-top: 100px;
+}
+
+.duoi3 b.fa {
+    width: 40px;
+    height: 40px;
+    background: gray;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    border: 1px dotted rgba(0, 0, 0, 0);
+}
+
+.duoi3 b.fa:hover {
+    color: #ff8700;
+    border: 1px dotted #ff8700;
+}
+
+.tren3 span {
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    color: #f29c3a;
+}
+
+.tren3 h2 {
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.tren3 {
+    padding-top: 80px;
+}
+
+.khoithongtin2 {
+    margin-top: 100px;
+}
+
+.carousel-inner.khoicarousel2 {
+}
+
+.slidethucdonchitiet a.right.carousel-control {
+    background: gray;
+    width: 40px;
+    height: 40px;
+    top: 40px;
+}
+
+.slidethucdonchitiet a.left.carousel-control {
+    width: 40px;
+    height: 40px;
+    background: gray;
+    top: 40px;
+    left: 92%;
+}
+
+ol.carousel-indicators {
+    display: none;
+}
+
+.duoi2 {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+
+.tren2 a, .tren2 span {
+    color: white;
+    text-decoration: none;
+    background: rgb(33, 33, 33);
+    transform: translateY(6px);
+    display: inline-block;
+}
+
+.tren2 span {}
+
+.tren2 {
+    padding-top: 16px;
+    border-bottom: 2px dotted white;
+}
+
+.tren2 span.float-right {
+    float: right;
+    color: white;
+}
+
+.anhnho2 img.img-fluid {
+    border: 2px solid #fdfdfd;
+    box-shadow: 0 0 2px 2px rgba(248, 163, 23, 0.43);
+}
+
+img.img-fluid {}
+
+.anhnho2 .chunew {
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background: #f8a317;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 3px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.anhnho2 {
+    position: relative;
+    margin-top: 114px;
+}
+
+.tieudechitiet h3 {
+    color: white;
+    padding-top: 40px;
+    position: absolute;
+}
+
+.slidethucdonchitiet {
+    background: url(images/slide.png);
+}
+
+.col-xs-12.col-sm-6.col-md-4.motkhoi {
+    padding-bottom: 30px;
+    height: 100px;
+}
+
+.tren span.float-right {
+    font-size: 14px;
+    float: right;
+    background: white;
+    display: inline-block;
+    transform: translateY(7px);
+    padding-left: 6px;
+    font-weight: bold;
+}
+
+.tren a {
+    color: black;
+    background: white;
+    transform: translateY(4px);
+    display: inline-block;
+    font-size: 13px;
+    padding-right: 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.tren:hover a {
+    color: #ecb301;
+}
+
+.tren {
+    border-bottom: 2px dotted #ecb301;
+    color: black;
+}
+
+.tren:hover {
+    color: #ecb301;
+}
+
+.anhnho img.img-fluid {
+    box-shadow: 0 0 2px 3px rgba(226, 140, 20, 0.36);
+    border: 2px solid rgba(128, 128, 128, 0);
+}
+
+.anhnho .tagnew {
+    position: absolute;
+    width: 33px;
+    height: 30px;
+    background: #f8a317;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 3px;
+    margin: 5px;
+    font-size: 12px;
+}
+
+.noidungchitiet .row .row [class*=col-] {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.anhnho {
+    position: relative;
+}
+
+
+
+.tieudemenu a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid rgba(232, 220, 220, 0.33);
+    text-align: center;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 2px;
+    box-shadow: 0 0 1px 1px yellow;
+}
+
+.tieudemenu a:hover {
+    color: #ecc000;
+    border-color: #ecc000;
+    background-color: rgba(128, 128, 128, 0.33);
+}
+
+.tieudemenu {
+    margin-top: -71px;
+    margin-bottom: 145px;
+}
+
+.khoimenu2 .row.chutieude {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.khoimenu2 .midole {
+    display: table;
+    height: 550px;
+}
+
+.khoimenu2 {
+    height: 550px;
+    background: #5b5b5b;
+    margin-top: 100px;
+}
+
+.chutieude h3.fontroboto {
+    font-size: 33px;
+    padding-top: 15px;
+    color: #ffffff;
+}
+
+.chutieude span.fontDancing {
+    font-size: 30px;
+    color: #ecc000;
+}
+
+.tieude a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+    padding-bottom: 15px;
+}
+
+.tieude a:hover {
+    color: #e9c057;
+}
+
+.tieude {margin-top: 40px;}
+
+.dichvu {
+    margin-top: 60px;
+}
+
+.khoianh1 .row [class*=col-] {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.khoichu {
+    position: absolute;
+    background: url(images/icon-1_03.png);
+    background-repeat: no-repeat;
+    font-size: 18px;
+    padding-top: 160px;
+    margin-left: 140px;
+    width: 738px;
+    top: 24px;
+    color: white;
+}
+
+.slideanh {
+    background: url(images/slide.png);
+}
+
+.btn-warning {
+    border-radius: 0px;
+}
+
+a.nav-link.btn.btn-warning {
+    font-weight: bold;
+}
+
+a.nav-link.btn.btn-warning:hover {
+    color: black;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .active>.nav-link:focus, .navbar-light .navbar-nav .active>.nav-link:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.active:focus, .navbar-light .navbar-nav .nav-link.active:hover, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.open:focus, .navbar-light .navbar-nav .nav-link.open:hover, .navbar-light .navbar-nav .open>.nav-link, .navbar-light .navbar-nav .open>.nav-link:focus, .navbar-light .navbar-nav .open>.nav-link:hover {
+    color: #feb518;
+}
+
+.menuphai li.nav-item a.nav-link {font-size: 16px;border-bottom: 1px solid rgba(240, 173, 78, 0);margin-left: 27px;}
+
+.menuphai li.nav-item a.nav-link:hover {
+    color: #feb518;
+    border-color: #feb518;
+}
+
+.menuphai li.nav-item a.nav-link.btn.btn-warning:hover {
+    color:white;
+}
+
+.menuphai .nav-item {margin-top: 20px;}
+
+.giohang {
+    padding-left: 10px;
+    border-right: 1px solid gray;
+    padding-right: 10px;
+}
+
+.soluong {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 10px;
+    background: #f87d0a;
+    right: 19px;
+    font-size: 9px;
+}
+
+.giohang {
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.ngonngu {
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-right: 1px solid gray;
+    padding-right: 10px;
+}
+
+.thoigian {
+    font-size: 12px;
+    float: right;
+    margin-top: 15px;
+    border-left: 1px solid gray;
+    padding-left: 10px;
+    border-right: 1px solid gray;
+    padding-right: 10px;
+}
+
+.col-sm-6.col-xs-12.benphai.fontroboto {
+    height: 60px;
+}
+
+.lienhe {
+    border-left: 1px solid gray;
+    float: left;
+    margin-left: 10px;
+    padding-left: 20px;
+    font-size: 13px;
+}
+
+.mangxh a {
+    color: white;
+}
+
+.mangxh a:hover {
+    color: rgba(255, 182, 0, 0.87);
+}
+
+.mangxh a i {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background: gray;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+}
+
+.col-sm-6.col-xs-12.bentrai.fontroboto {
+    height: 60px;
+}
+
+.giohang {
+    float: right;
+}
+
+.ngonngu {
+    float: right;
+}
+
+.thoigian {
+    float: right;
+}
+
+.lienhe {
+    margin-top: 15px;
+}
+
+.mangxh {
+    float: left;
+    margin-top: 11px;
+    padding: 0px;
+}
+
+header {
+    height: 60px;
+    color: white;
+    background: black;
+}
+
+/* ----------- iphone 6 ----------- */
+@media (max-width: 576px){
+    *{}
+
+.khoichu h2 {
+    font-size: 18px;
+}
+
+.khoichu {
+    top: 9px;
+}
+
+.menuphai li.nav-item a.nav-link.btn.btn-warning:last-child {
+    border: none;
+}
+
+.menuphai li.nav-item a.nav-link {
+    padding: 0px;
+    margin-left: 0px;
+    border-top: 1px dotted gray;
+    width: 100px;
+    margin: auto;
+}
+
+.menuphai li.nav-item a.nav-link:hover {
+    background: gray;
+}
+
+li.nav-item {
+}
+
+ul.nav.navbar-nav.float-sm-right.text-xs-center.menuphai {
+}
+
+.navbar-brand {text-align: center;width: 100%;}
+
+.navbar-brand img {}
+}
+@media (max-width: 768px){
+    *{}
+
+.khoichu {
+    top: -17px;
+}
+
+.navbar-brand img {
+    height: 57px;
+}
+
+.menuphai li.nav-item a.nav-link {
+    font-size: 14px;
+}
+}
+
+
+/* ----------- end iphone 6 ----------- */
+/* ----------- iphone 5 ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+ *{}
+
+.slidethucdonchitiet {
+    margin-top: 900px;
+}
+
+img.img-fluid {}
+
+.tieudechitiet h3 {
+    font-size: 21px;
+    left: 5px;
+}
+
+.slidethucdonchitiet a.right.carousel-control {
+    right: 5px;
+}
+
+.slidethucdonchitiet a.left.carousel-control {
+    left: 73%;
+}
+
+.tren2 span.float-right {
+    color: black;
+    background: no-repeat;
+}
+
+.tren2 a {
+    color: black;
+    background: no-repeat;
+}
+
+.tren2 {
+    font-size: 19px;
+    padding: 12px;
+}
+
+.duoi2 {
+    display: none;
+}
+
+.tieude p.fontroboto {
+    font-size: 12px;
+}
+
+.tieude a {
+    font-size: 14px;
+}
+
+.duoi {
+    font-size: 13px;
+}
+
+.anhnho .tagnew {
+    width: 20px;
+    height: 20px;
+    font-size: 8px;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+.tieudemenu {
+    margin-bottom: 68px;
+}
+
+.tieudemenu a {
+    padding: 3px 5px;
+    margin-right: 4px;
+    font-size: 10px;
+}
+
+.khoianh1 .row [class*=col-] {
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+.khoimenu2 .container {
+    height: 350px;
+}
+
+.khoimenu2 {
+    height: 350px;
+    margin-top: 40px;
+}
+
+.chutieude h3.fontroboto {
+    font-size: 16px;
+}
+
+.chutieude span.fontDancing {
+    font-size: 19px;
+}
+
+.khoichu {
+}
+
+.carousel-indicators li {
+    width: 5px;
+    height: 5px;
+}
+
+.container ol.carousel-indicators {
+    top: 69px;
+}
+
+.khoichu b.btn.btn-warning {
+    padding: 2px 5px;
+    font-size: 10px;
+}
+
+.khoichu p {
+    display: none;
+}
+
+.khoichu h2 {
+    font-size: 14px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.khoichu {
+    background: no-repeat;
+    padding-top: 42px;
+    margin-left: 65px;
+}
+
+.thoigian {
+    width: 100%;
+    text-align: center;
+    margin-top: 4px;
+    font-size: 12px;
+    border: 0px;
+}
+
+.ngonngu {
+    display: none;
+}
+
+.col-sm-6.col-xs-12.benphai.fontroboto {
+    width: 100%;
+}
+
+.giohang {
+    display: none;
+}
+
+.col-sm-6.col-xs-12.bentrai.fontroboto {
+}
+
+.mangxh {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.lienhe {
+    display: none;
+}
+
+header {
+    height: 100px;
+}
+}
+/* ----------- end iphone 5 ----------- */
+/* ----------- iPad mini ----------- */
+ 
+@media only screen
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+ *{}
+
+.slidethucdonchitiet {
+    padding-top: 900px;
+}
+
+.slidethucdonchitiet a.left.carousel-control {
+    left: 88%;
+}
+
+.slidethucdonchitiet {
+    position: absolute;
+    margin: -694px 0px;
+    left: 26px;
+}
+
+.khoichu h2 {
+    font-size: 28px;
+}
+
+.khoichu {
+    background: no-repeat;
+    padding-top: 62px;
+    font-size: 16px;
+    width: 60%;
+}
+
+.lienhe {
+    font-size: 10px;
+    margin-top: 18px;
+}
+}
+/* ----------- end iPad mini ----------- */
+}
